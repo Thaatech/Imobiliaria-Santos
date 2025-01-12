@@ -1,0 +1,146 @@
+@charset "UTF-8";
+
+body{
+    font-family: 'Tahoma', sans-serif ;
+}
+
+div{
+    text-align: center;
+    padding: 20px;
+
+}
+
+.secao-logo{
+    background-color: #afddfb;
+    padding-bottom: 25px;
+}
+
+.secao-logo img{
+    width: 150px;
+    padding: 15px;
+
+}
+
+.secao-logo p{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+    padding-bottom: 25px;
+
+}
+
+.secao-logo a{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.secao-banner{
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.secao-sobre h2{
+    color: #1c81c0;
+    font-weight: normal;
+}
+
+p{ 
+    width: 1024px;
+    font-size: 18px;
+    text-align: center;
+    line-height: 24px;
+    margin: 10px auto;
+}
+
+.imagem{
+    width: 450px;
+}
+
+.texto-azul{
+    font-weight: bold;
+    color: #1c81c0;
+}
+
+.secao-servicos{
+    background-color: #1d80c1;
+    color: #ffffff;
+    
+}
+
+h3{
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.secao-servicos p{
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+    line-height: 42px;
+    padding: 40px auto;
+}
+
+.texto-amarelo{
+    color: #fff81b;
+    font-weight: bold;
+}
+
+.secao-servicos ul{
+    margin: 40px auto;
+    width: 135px;
+    margin-bottom: 40px;
+}
+.secao-servicos li{
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.secao-corretores h3{
+    color: #1d80c1;
+}
+
+.secao-contato{
+    background-color: #1d80c1;
+    color: #ffffff;
+}
+
+.fundo-preto{
+    background-color: #1d1d1d;
+    padding: 15px;
+}
+
+iframe{
+    width: 900px;
+    height: 400px;
+}
+
+.secao-contato ul{
+    list-style-type: none;
+    margin: 40px auto;
+    width: 210px;
+   ;
+}
+
+.secao-contato li{
+    background-color: #ffffff;
+    color: #1d80c1;
+    border-radius: 5px;
+    margin: 10px auto;
+    padding: 2px 5px;
+    font-size: 18px;
+}
+
+.secao-contato a {
+    color: #1d80c1;    
+}
+
+
